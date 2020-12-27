@@ -10,11 +10,11 @@ public class RelationalOperators {
     // == checks equality, = assignes something
     //System.out.println(result);
 
-        //int number1 = 3;
-        //int number2 = 3;
-        //boolean result = number1 != number2;
-        // !=checks inequality
-        //System.out.println(result);
+        int number1 = 3;
+        int number2 = 3;
+        boolean result = number1 != number2;
+//         !=checks inequality
+        System.out.println(result);
 
         //int number1 = 3;
         //int number2 = 3;
@@ -99,9 +99,9 @@ public class RelationalOperators {
 //        int result = aNumber1 >> 3;
 //        System.out.println(result);
 
-        int aNumber1 = 256;
-        int result = aNumber1 << 1;
-        System.out.println(result);
+//        int aNumber1 = 256;
+//        int result = aNumber1 << 1;
+//        System.out.println(result);
         // <<n means multiplying by 2^n
 
         //GETTING USER INPUT

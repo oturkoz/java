@@ -2,7 +2,7 @@ import java.sql.SQLOutput;
 import java.util.Scanner;
 
 
-public class RelationalOperators {
+public class RelationalOperators_2 {
     public static void main(String[] args){
     //int number1 = 3;
     //int number2 = 6;

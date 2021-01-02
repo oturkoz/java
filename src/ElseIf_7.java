@@ -1,5 +1,5 @@
 
-public class ElseIf {
+public class ElseIf_7 {
     public static void main(String[] args) {
         // used to specify a new condition to test, whwn the if statement is false
         // keyword is "else if"

@@ -1,4 +1,4 @@
-public class TypeCasting {
+public class TypeCasting_3 {
     public static void main(String[] args) {
         //double doubleNumber = 3.14;
         //int intNumber = (int)doubleNumber;

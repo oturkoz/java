@@ -1,5 +1,5 @@
 
-public class Switch {
+public class Switch_8 {
     // Switch evaluates the expression and compares it with values (can be expressions) of each case label
     // If the value matches a certain case label, then all the statements of the matching case label are executed.
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-public class ifStatement {
+public class ifStatement_4 {
     public static void main(String[] args){
 //        RELATIONAL OPERTORS
 //                > greater than

@@ -1,6 +1,6 @@
 
 
-public class IfElseStatement {
+public class IfElseStatement_6 {
     // if the if statement is false, another block of code can be executed
     // the keyword "else" is used
     // it is followed by curly brackets

@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class NestedIfStatement {
+public class NestedIfStatement_5 {
     // this is an if statement inside an if statement
     public static void main (String[] args) {
         //checking if a number is between 5 and 10

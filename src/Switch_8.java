@@ -33,7 +33,7 @@ public class Switch_8 {
         // - it is easier to read
 
 
-        int month_number = 2;
+        int month_number = 6;
         switch(month_number){
             case 1 :
                 System.out.println("January");

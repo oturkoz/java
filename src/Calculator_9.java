@@ -2,13 +2,14 @@ import java.util.Scanner;
 
 public class Calculator_9 {
     public static void main(String[] args) {
+
+
         // Get user input using scanner --> number 1
         // Get user input using scanner --> number 2
         // Get user input using scanner --> + - * /
         // For example number1 = 1, number2 = 2, operator = + My result would be 3
         // switch to read the operator, find the result of the calculation, print
         // scan.nextInt(); if you want to scan an integer as user input use this
-
 
 
         Scanner scan = new Scanner(System.in);
@@ -39,14 +40,6 @@ public class Calculator_9 {
                 System.out.println("Not a valid operator");
         }
         System.out.println(number1 + "" +  operator + "" + number2 + "" + " is equal to 5" + "" + result  );
-
-
-
-
-
-
-
-
 
     }
 }

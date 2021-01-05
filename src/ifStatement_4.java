@@ -33,13 +33,6 @@ public class ifStatement_4 {
             System.out.println("The number is not equal to 7");
         }
 
-
-
-
-
-
-
-
     }
 
 }
